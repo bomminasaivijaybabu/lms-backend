@@ -1,0 +1,773 @@
+{
+    "students": {
+      "courses": [
+        {
+          "courseName": "Fullstack Developer",
+          "batches": [
+            {
+              "batchId": "FS101",
+              "student": [
+                {
+                  "id": "FS101-001",
+                  "name": "Alice Smith",
+                  "email": "alice.smith@example.com",
+                  "mobile": "123-456-7890"
+                },
+                {
+                  "id": "FS101-002",
+                  "name": "saivijaybabu",
+                  "email": "saivijaybabu@example.com",
+                  "mobile": "987-654-3210"
+                },
+                {
+                  "id": "FS101-003",
+                  "name": "Charlie Brown",
+                  "email": "charlie.brown@example.com",
+                  "mobile": "555-123-4567"
+                },
+                {
+                  "id": "FS101-004",
+                  "name": "Diana Miller",
+                  "email": "diana.miller@example.com",
+                  "mobile": "111-222-3333"
+                },
+                {
+                  "id": "FS101-005",
+                  "name": "Ethan Davis",
+                  "email": "ethan.davis@example.com",
+                  "mobile": "444-555-6666"
+                }
+              ]
+            },
+            {
+              "batchId": "FS102",
+              "student": [
+                {
+                  "id": "FS102-001",
+                  "name": "Fiona Wilson",
+                  "email": "fiona.wilson@example.com",
+                  "mobile": "777-888-9999"
+                },
+                {
+                  "id": "FS102-002",
+                  "name": "George Garcia",
+                  "email": "george.garcia@example.com",
+                  "mobile": "333-222-1111"
+                },
+                {
+                  "id": "FS102-003",
+                  "name": "Hannah Rodriguez",
+                  "email": "hannah.rodriguez@example.com",
+                  "mobile": "666-555-4444"
+                },
+                {
+                  "id": "FS102-004",
+                  "name": "Ian Martinez",
+                  "email": "ian.martinez@example.com",
+                  "mobile": "222-333-4444"
+                },
+                {
+                  "id": "FS102-005",
+                  "name": "Julia Anderson",
+                  "email": "julia.anderson@example.com",
+                  "mobile": "888-999-0000"
+                }
+              ]
+            },
+            {
+              "batchId": "FS103",
+              "student": [
+                {
+                  "id": "FS103-001",
+                  "name": "Kevin Thomas",
+                  "email": "kevin.thomas@example.com",
+                  "mobile": "123-987-6543"
+                },
+                {
+                  "id": "FS103-002",
+                  "name": "Linda Jackson",
+                  "email": "linda.jackson@example.com",
+                  "mobile": "456-321-7890"
+                },
+                {
+                  "id": "FS103-003",
+                  "name": "Michael White",
+                  "email": "michael.white@example.com",
+                  "mobile": "789-654-1230"
+                },
+                {
+                  "id": "FS103-004",
+                  "name": "Nancy Harris",
+                  "email": "nancy.harris@example.com",
+                  "mobile": "321-456-9870"
+                },
+                {
+                  "id": "FS103-005",
+                  "name": "Oliver Martin",
+                  "email": "oliver.martin@example.com",
+                  "mobile": "654-789-0123"
+                }
+              ]
+            },
+            {
+              "batchId": "FS104",
+              "student": [
+                {
+                  "id": "FS104-001",
+                  "name": "Patricia Thompson",
+                  "email": "patricia.thompson@example.com",
+                  "mobile": "987-321-6540"
+                },
+                {
+                  "id": "FS104-002",
+                  "name": "Quentin Garcia",
+                  "email": "quentin.garcia@example.com",
+                  "mobile": "213-654-0987"
+                },
+                {
+                  "id": "FS104-003",
+                  "name": "Rachel Lewis",
+                  "email": "rachel.lewis@example.com",
+                  "mobile": "546-987-3210"
+                },
+                {
+                  "id": "FS104-004",
+                  "name": "Samuel Lee",
+                  "email": "samuel.lee@example.com",
+                  "mobile": "879-012-6543"
+                },
+                {
+                  "id": "FS104-005",
+                  "name": "Tiffany Walker",
+                  "email": "tiffany.walker@example.com",
+                  "mobile": "102-345-7896"
+                }
+              ]
+            },
+            {
+              "batchId": "FS105",
+              "student": [
+                {
+                  "id": "FS105-001",
+                  "name": "Victor Hall",
+                  "email": "victor.hall@example.com",
+                  "mobile": "435-678-9012"
+                },
+                {
+                  "id": "FS105-002",
+                  "name": "Wendy Allen",
+                  "email": "wendy.allen@example.com",
+                  "mobile": "768-901-2345"
+                },
+                {
+                  "id": "FS105-003",
+                  "name": "Xavier Young",
+                  "email": "xavier.young@example.com",
+                  "mobile": "091-234-5678"
+                },
+                {
+                  "id": "FS105-004",
+                  "name": "Yasmine King",
+                  "email": "yasmine.king@example.com",
+                  "mobile": "324-567-8901"
+                },
+                {
+                  "id": "FS105-005",
+                  "name": "Zachary Wright",
+                  "email": "zachary.wright@example.com",
+                  "mobile": "657-890-1234"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "courseName": "Data Science",
+          "batches": [
+            {
+              "batchId": "DS201",
+              "student": [
+                {
+                  "id": "DS201-001",
+                  "name": "Ava Green",
+                  "email": "ava.green@example.com",
+                  "mobile": "234-567-8901"
+                },
+                {
+                  "id": "DS201-002",
+                  "name": "Benjamin Hill",
+                  "email": "benjamin.hill@example.com",
+                  "mobile": "567-890-1234"
+                },
+                {
+                  "id": "DS201-003",
+                  "name": "Chloe Baker",
+                  "email": "chloe.baker@example.com",
+                  "mobile": "890-123-4567"
+                },
+                {
+                  "id": "DS201-004",
+                  "name": "Daniel Cook",
+                  "email": "daniel.cook@example.com",
+                  "mobile": "123-456-7899"
+                },
+                {
+                  "id": "DS201-005",
+                  "name": "Emily Rogers",
+                  "email": "emily.rogers@example.com",
+                  "mobile": "456-789-0123"
+                }
+              ]
+            },
+            {
+              "batchId": "DS202",
+              "student": [
+                {
+                  "id": "DS202-001",
+                  "name": "Finn Peterson",
+                  "email": "finn.peterson@example.com",
+                  "mobile": "789-012-3456"
+                },
+                {
+                  "id": "DS202-002",
+                  "name": "Grace Reed",
+                  "email": "grace.reed@example.com",
+                  "mobile": "012-345-6789"
+                },
+                {
+                  "id": "DS202-003",
+                  "name": "Henry Wood",
+                  "email": "henry.wood@example.com",
+                  "mobile": "345-678-9012"
+                },
+                {
+                  "id": "DS202-004",
+                  "name": "Isabelle Barnes",
+                  "email": "isabelle.barnes@example.com",
+                  "mobile": "678-901-2345"
+                },
+                {
+                  "id": "DS202-005",
+                  "name": "Jack Coleman",
+                  "email": "jack.coleman@example.com",
+                  "mobile": "901-234-5678"
+                }
+              ]
+            },
+            {
+              "batchId": "DS203",
+              "student": [
+                {
+                  "id": "DS203-001",
+                  "name": "Katie Jenkins",
+                  "email": "katie.jenkins@example.com",
+                  "mobile": "234-567-9018"
+                },
+                {
+                  "id": "DS203-002",
+                  "name": "Liam Perry",
+                  "email": "liam.perry@example.com",
+                  "mobile": "567-901-8234"
+                },
+                {
+                  "id": "DS203-003",
+                  "name": "Mia Powell",
+                  "email": "mia.powell@example.com",
+                  "mobile": "901-823-4567"
+                },
+                {
+                  "id": "DS203-004",
+                  "name": "Noah Ross",
+                  "email": "noah.ross@example.com",
+                  "mobile": "823-456-7901"
+                },
+                {
+                  "id": "DS203-005",
+                  "name": "Olivia Morgan",
+                  "email": "olivia.morgan@example.com",
+                  "mobile": "456-790-1823"
+                }
+              ]
+            },
+            {
+              "batchId": "DS204",
+              "student": [
+                {
+                  "id": "DS204-001",
+                  "name": "Peter Bell",
+                  "email": "peter.bell@example.com",
+                  "mobile": "790-182-3456"
+                },
+                {
+                  "id": "DS204-002",
+                  "name": "Quinn Murphy",
+                  "email": "quinn.murphy@example.com",
+                  "mobile": "182-345-6790"
+                },
+                {
+                  "id": "DS204-003",
+                  "name": "Rose Howard",
+                  "email": "rose.howard@example.com",
+                  "mobile": "345-679-0182"
+                },
+                {
+                  "id": "DS204-004",
+                  "name": "Ryan Griffin",
+                  "email": "ryan.griffin@example.com",
+                  "mobile": "679-018-2345"
+                },
+                {
+                  "id": "DS204-005",
+                  "name": "Sophia Myers",
+                  "email": "sophia.myers@example.com",
+                  "mobile": "018-234-5679"
+                }
+              ]
+            },
+            {
+              "batchId": "DS205",
+              "student": [
+                {
+                  "id": "DS205-001",
+                  "name": "Thomas Ford",
+                  "email": "thomas.ford@example.com",
+                  "mobile": "234-567-0918"
+                },
+                {
+                  "id": "DS205-002",
+                  "name": "Uma Scott",
+                  "email": "uma.scott@example.com",
+                  "mobile": "567-091-8234"
+                },
+                {
+                  "id": "DS205-003",
+                  "name": "Victor Ellis",
+                  "email": "victor.ellis@example.com",
+                  "mobile": "091-823-4567"
+                },
+                {
+                  "id": "DS205-004",
+                  "name": "Wendy Hayes",
+                  "email": "wendy.hayes@example.com",
+                  "mobile": "823-456-7091"
+                },
+                {
+                  "id": "DS205-005",
+                  "name": "Xander Pierce",
+                  "email": "xander.pierce@example.com",
+                  "mobile": "456-709-1823"
+                }
+              ]
+            },
+            {
+              "batchId": "DS206",
+              "student": [
+                {
+                  "id": "DS206-001",
+                  "name": "Yara Simmons",
+                  "email": "yara.simmons@example.com",
+                  "mobile": "709-182-3456"
+                },
+                {
+                  "id": "DS206-002",
+                  "name": "Zackary Reid",
+                  "email": "zackary.reid@example.com",
+                  "mobile": "182-345-6709"
+                },
+                {
+                  "id": "DS206-003",
+                  "name": "Abigail West",
+                  "email": "abigail.west@example.com",
+                  "mobile": "345-670-9182"
+                },
+                {
+                  "id": "DS206-004",
+                  "name": "Brandon Clark",
+                  "email": "brandon.clark@example.com",
+                  "mobile": "670-918-2345"
+                },
+                {
+                  "id": "DS206-005",
+                  "name": "Catherine Stone",
+                  "email": "catherine.stone@example.com",
+                  "mobile": "918-234-5670"
+                }
+              ]
+            }
+          ]
+        },
+        {
+            "courseName": "Digital Marketing",
+            "batches":[
+                {
+                    "batchId": "DM301",
+                    "student":[
+                        {
+                            "id": "DM301-001",
+                            "name": "sai",
+                            "email": "sai@gmail.com",
+                            "mobile": "123-456-7890"
+                          },
+                          {
+                            "id": "DM301-002",
+                            "name": "vijay",
+                            "email": "vijay@gmail.com",
+                            "mobile": "123-456-7891"
+                          },
+                          {
+                            "id": "DM301-003",
+                            "name": "babu",
+                            "email": "babu@gmail.com",
+                            "mobile": "123-456-7892"
+                          },
+                          {
+                            "id": "DM301-004",
+                            "name": "saivijay",
+                            "email": "saivijay@gmail.com",
+                            "mobile": "123-456-7893"
+                          },
+                          {
+                            "id": "DM301-005",
+                            "name": "vijaybabu",
+                            "email": "vijaybabu@gmail.com",
+                            "mobile": "123-456-7894"
+                          }
+                          
+                    ]
+                },
+                {
+                    "batchId": "DM302",
+                    "student":[
+                        {
+                            "id": "DM302-001",
+                            "name": "radha",
+                            "email": "radha@gmail.com",
+                            "mobile": "123-456-7895"
+                          },
+                          {
+                            "id": "DM302-002",
+                            "name": "krishna",
+                            "email": "krishna@gmail.com",
+                            "mobile": "123-456-7896"
+                          },
+                          {
+                            "id": "DM302-003",
+                            "name": "kumari",
+                            "email": "kumari@gmail.com",
+                            "mobile": "123-456-7897"
+                          },
+                          {
+                            "id": "DM302-004",
+                            "name": "radhakrihna",
+                            "email": "radhakrihna@gmail.com",
+                            "mobile": "123-456-7898"
+                          },
+                          {
+                            "id": "DM302-005",
+                            "name": "krishnakumari",
+                            "email": "krishnakumari@gmail.com",
+                            "mobile": "123-456-7899"
+                          }
+                          
+                    ]
+                },
+                {
+                    "batchId": "DM303",
+                    "student":[
+                        {
+                            "id": "DM303-001",
+                            "name": "sairadha",
+                            "email": "sairadha@gmail.com",
+                            "mobile": "123-456-7800"
+                          },
+                          {
+                            "id": "DM303-002",
+                            "name": "saikrishna",
+                            "email": "saikrishna@gmail.com",
+                            "mobile": "123-456-7801"
+                          },
+                          {
+                            "id": "DM303-003",
+                            "name": "saikumari",
+                            "email": "saikumari@gmail.com",
+                            "mobile": "123-456-7802"
+                          },
+                          {
+                            "id": "DM303-004",
+                            "name": "sairadhakrihna",
+                            "email": "sairadhakrihna@gmail.com",
+                            "mobile": "123-456-7803"
+                          },
+                          {
+                            "id": "DM303-005",
+                            "name": "saikrishnakumari",
+                            "email": "saikrishnakumari@gmail.com",
+                            "mobile": "123-456-7804"
+                          }
+                          
+                    ]
+                },
+                {
+                    "batchId": "DM304",
+                    "student":[
+                        {
+                            "id": "DM304-001",
+                            "name": "vijayradha",
+                            "email": "vijayradha@gmail.com",
+                            "mobile": "123-456-7805"
+                          },
+                          {
+                            "id": "DM304-002",
+                            "name": "vijaykrishna",
+                            "email": "vijaykrishna@gmail.com",
+                            "mobile": "123-456-7806"
+                          },
+                          {
+                            "id": "DM304-003",
+                            "name": "vijaykumari",
+                            "email": "vijaykumari@gmail.com",
+                            "mobile": "123-456-7807"
+                          },
+                          {
+                            "id": "DM304-004",
+                            "name": "vijayradhakrihna",
+                            "email": "vijayradhakrihna@gmail.com",
+                            "mobile": "123-456-7808"
+                          },
+                          {
+                            "id": "DM304-005",
+                            "name": "vijaykrishnakumari",
+                            "email": "vijaykrishnakumari@gmail.com",
+                            "mobile": "123-456-7809"
+                          }
+                          
+                    ]
+                },
+                {
+                    "batchId": "DM305",
+                    "student":[
+                        {
+                            "id": "DM305-001",
+                            "name": "babuvijayradha",
+                            "email": "babuvijayradha@gmail.com",
+                            "mobile": "123-456-7810"
+                          },
+                          {
+                            "id": "DM305-002",
+                            "name": "babuvijaykrishna",
+                            "email": "vijaykrishna@gmail.com",
+                            "mobile": "123-456-7811"
+                          },
+                          {
+                            "id": "DM305-003",
+                            "name": "babuvijaykumari",
+                            "email": "vijaykumari@gmail.com",
+                            "mobile": "123-456-7812"
+                          },
+                          {
+                            "id": "DM305-004",
+                            "name": "babuvijayradhakrihna",
+                            "email": "babuvijayradhakrihna@gmail.com",
+                            "mobile": "123-456-7813"
+                          },
+                          {
+                            "id": "DM305-005",
+                            "name": "babuvijaykrishnakumari",
+                            "email": "babuvijaykrishnakumari@gmail.com",
+                            "mobile": "123-456-7814"
+                          }
+                          
+                    ]
+                }
+                
+            ]
+        },
+        {
+            "courseName": "Python Developer",
+            "batches":[
+                {
+                    "batchId": "PD401",
+                    "student":[
+                        {
+                            "id": "PD401-001",
+                            "name": "saivijaybabu",
+                            "email": "saivijaybabu@gmail.com",
+                            "mobile": "123-456-7815"
+                          },
+                          {
+                            "id": "PD401-002",
+                            "name": "krishnavijay",
+                            "email": "krishnavijay@gmail.com",
+                            "mobile": "123-456-7816"
+                          },
+                          {
+                            "id": "PD401-003",
+                            "name": "krishnababu",
+                            "email": "krishnababu@gmail.com",
+                            "mobile": "123-456-7817"
+                          },
+                          {
+                            "id": "PD401-004",
+                            "name": "krishnasaivijay",
+                            "email": "krishnasaivijay@gmail.com",
+                            "mobile": "123-456-7818"
+                          },
+                          {
+                            "id": "PD401-005",
+                            "name": "krishnavijaybabu",
+                            "email": "krishnavijaybabu@gmail.com",
+                            "mobile": "123-456-7819"
+                          }
+                          
+                    ]
+                },
+                {
+                    "batchId": "PD402",
+                    "student":[
+                        {
+                            "id": "PD402-001",
+                            "name": "krishnaradha",
+                            "email": "krishnaradha@gmail.com",
+                            "mobile": "123-456-7820"
+                          },
+                          {
+                            "id": "PD402-002",
+                            "name": "krishnaradha",
+                            "email": "krishnaradha@gmail.com",
+                            "mobile": "123-456-7821"
+                          },
+                          {
+                            "id": "PD402-003",
+                            "name": "krishnakumari",
+                            "email": "krishnakumari@gmail.com",
+                            "mobile": "123-456-7822"
+                          },
+                          {
+                            "id": "PD402-004",
+                            "name": "radhakrihnakumari",
+                            "email": "radhakrihnakumari@gmail.com",
+                            "mobile": "123-456-7823"
+                          },
+                          {
+                            "id": "PD402-005",
+                            "name": "radhasai",
+                            "email": "radhasai@gmail.com",
+                            "mobile": "123-456-7824"
+                          }
+                          
+                    ]
+                },
+                {
+                    "batchId": "PD403",
+                    "student":[
+                        {
+                            "id": "PD403-001",
+                            "name": "radhasaivijay",
+                            "email": "radhasaivijay@gmail.com",
+                            "mobile": "123-456-7825"
+                          },
+                          {
+                            "id": "PD403-002",
+                            "name": "radhasaibabu",
+                            "email": "radhasaibabu@gmail.com",
+                            "mobile": "123-456-7826"
+                          },
+                          {
+                            "id": "PD403-003",
+                            "name": "saidivyasri",
+                            "email": "saidivyasri@gmail.com",
+                            "mobile": "123-456-7827"
+                          },
+                          {
+                            "id": "PD403-004",
+                            "name": "saidivya",
+                            "email": "saidivya@gmail.com",
+                            "mobile": "123-456-7828"
+                          },
+                          {
+                            "id": "PD403-005",
+                            "name": "divyasri",
+                            "email": "divyasri@gmail.com",
+                            "mobile": "123-456-7829"
+                          }
+                          
+                    ]
+                },
+                {
+                    "batchId": "PD404",
+                    "student":[
+                        {
+                            "id": "PD404-001",
+                            "name": "saidivyasriranga",
+                            "email": "saidivyasriranga@gmail.com",
+                            "mobile": "123-456-7830"
+                          },
+                          {
+                            "id": "PD404-002",
+                            "name": "divyasriranga",
+                            "email": "divyasriranga@gmail.com",
+                            "mobile": "123-456-7831"
+                          },
+                          {
+                            "id": "PD404-003",
+                            "name": "saidivyaranga",
+                            "email": "saidivyaranga@gmail.com",
+                            "mobile": "123-456-7832"
+                          },
+                          {
+                            "id": "PD404-004",
+                            "name": "saidivyasriprasad",
+                            "email": "saidivyasriprasad@gmail.com",
+                            "mobile": "123-456-7833"
+                          },
+                          {
+                            "id": "PD404-005",
+                            "name": "divyasriprasad",
+                            "email": "saidivyasriprasad@gmail.com",
+                            "mobile": "123-456-7834"
+                          }
+                          
+                    ]
+                },
+                {
+                    "batchId": "PD405",
+                    "student":[
+                        {
+                            "id": "PD405-001",
+                            "name": "saidivyaprasad",
+                            "email": "saidivyaprasad@gmail.com",
+                            "mobile": "123-456-7835"
+                          },
+                          {
+                            "id": "PD405-002",
+                            "name": "saidivyasrirangaprasad",
+                            "email": "saidivyasrirangaprasad@gmail.com",
+                            "mobile": "123-456-7836"
+                          },
+                          {
+                            "id": "PD405-003",
+                            "name": "rekhasri",
+                            "email": "rekhasri@gmail.com",
+                            "mobile": "123-456-7837"
+                          },
+                          {
+                            "id": "PD405-004",
+                            "name": "rekha",
+                            "email": "rekha@gmail.com",
+                            "mobile": "123-456-7838"
+                          },
+                          {
+                            "id": "PD405-005",
+                            "name": "veeravenkata",
+                            "email": "veeravenkata@gmail.com",
+                            "mobile": "123-456-7839"
+                          }
+                          
+                    ]
+                }
+                
+            ]
+        }
+    ]
+    }
+}
